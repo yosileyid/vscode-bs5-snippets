@@ -1,10 +1,12 @@
-# Bootstrap v5.03 Snippets README
+# Bootstrap v5.3 Snippets README
 
-This is the README for your extension "bootstrap-v5-03-snippets". After writing up a brief description, we recommend including the following sections.
+Bootstrap v5.03 snippets installed in VS Code for faster coding. This just adds the snippets included in the screenshot below to your VS Code. You can reference these on the [Examples site](https://getbootstrap.com/docs/5.3/examples/) for Bootstrap. I plan on adding the other "Custom Components" and more in the weeks to come. Stay tuned `:)`
+
+![snippets](snippets.png)
 
 ## Features
 
-This just adds a few handy bootstrap 5.03 example snippets to VS Code to make it faster to build sites.
+This just adds a few handy bootstrap 5.3 example snippets to VS Code to make it faster to build sites.
 
 > NOTE: This is only the beginning, if you jump on Discord I would be glad to implement whatever snippets you like.
 
@@ -14,35 +16,38 @@ VS Code
 
 ## Extension Settings
 
-No needed settings. You can access and edit these snippets in `FILE > PREFERENCES > USER SNIPPETS
+No needed settings. You can access and edit these snippets in `FILE > PREFERENCES > USER SNIPPETS and remove whatever you like. I may replace the default icons and svg from their site with placeholder.com images in the future updates.
 
 ## Release Notes
 
 This is just the beginning of this extension for bootstrap templates.
 
-### 0.0.1
+## CHANGELOG 
 
-Added a few snippets. 
-
-- Bootstrap v5.03 Starter Template
-- Heros
-- Dropdown Menu (More coming...)
-- Modals
-- Js Header Template
+View the changelog to see added snippets.
 
 ## Installation
 
-To install the extension locally in VS Code, you can use the following steps:
+### Locally
 
+- Download the vsix file in this repo.
 - Open VS Code.
 - Click on the Extensions icon in the Activity Bar on the side of the window (or use the shortcut Ctrl + Shift + X on Windows/Linux or Cmd + Shift + X on macOS).
 - Click on the ellipsis button on the top-right corner of the Extensions panel.
 - Click on "Install from VSIX...".
-- Navigate to the directory where you cloned this repo, and select the .vsix file.
+- Navigate to the directory where your .vsiv file exists, and select the .vsix file.
 - Click on "Open".
 - Follow the instructions in the prompt to complete the installation.
 
 Once the extension is installed, you should be able to access the custom code snippets.
+
+### In VS Code
+
+Open Extensions search "vscode-bs5-snippets" and install.
+
+### VS Code Marketplace
+
+[https://marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=yosileyid.vscode-bs5-snippets)
 
 ## Contact Me
 
