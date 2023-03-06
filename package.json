@@ -1,0 +1,26 @@
+{
+  "name": "vscode-bs5-snippets",
+  "displayName": "Bootstrap v5.03 Snippets",
+  "description": "This extension provides easy access to example snippets from getbootstrap to make it easier to build sites with Bootstrap",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "readme": "README.md",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/*.code-snippets"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosileyid/vscode-bs5-snippets.git"
+  } ,
+  "icon": "icon.png" 
+}
